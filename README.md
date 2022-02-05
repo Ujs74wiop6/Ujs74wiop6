@@ -5,7 +5,7 @@
 - 📫 E-mail: fabricioujs74@gmail.com
 - I love to develop, build and learn
 
-<div align="center">
+<div>
   <a href="https://github.com/Ujs74wiop6">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujs74wiop6&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujs74wiop6&layout=compact&langs_count=7&theme=dark"/>
