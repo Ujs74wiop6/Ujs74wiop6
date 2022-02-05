@@ -1,4 +1,4 @@
-### fabricio_t.arantes
+### Fabricio Tiago Arantes
 
 - 🔭 Today I work with API Rest, Spring Boot JAVA and Web in general
 - 🌱 Studying JSF (Java Server Faces)
