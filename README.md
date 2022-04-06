@@ -1,7 +1,6 @@
 ### Fabricio Tiago Arantes
 
-- 🔭 Today I work with API Rest, Spring Boot JAVA and Web in general
-- 🌱 Studying JSF (Java Server Faces)
+- 🌱 Studying JAVA - JSF (Java Server Faces) and C
 - 📫 E-mail: fabricioujs74@gmail.com
 - I love to develop, build and learn
 
