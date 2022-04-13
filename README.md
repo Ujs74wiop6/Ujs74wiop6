@@ -1,6 +1,8 @@
 ### Fabricio Tiago Arantes
 
-- 🌱 Studying JAVA - JSF (Java Server Faces) and C
+- 🌱 Studying: 
+JAVA - JSF (Java Server Faces)
+C/C++
 - 📫 E-mail: fabricioujs74@gmail.com
 - I love to develop, build and learn
 
