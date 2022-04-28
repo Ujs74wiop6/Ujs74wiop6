@@ -1,6 +1,6 @@
 ### Fabricio Tiago Arantes
 
-- 🌱 Studying: JAVA {JSF}, C/C++
+- 🌱 Studying: JAVA, C/C++
 - 📫 E-mail: fabricioujs74@gmail.com
 - I love to develop, build and learn
 
