@@ -1,5 +1,4 @@
 ### Fabricio Tiago Arantes
-> [My page](https://ujs74wiop6.github.io/fbc/)
 - 🌱 Studying: Java, Javascript, C/C++
 - 📫 E-mail: fabricioujs74@gmail.com
 - I love to develop, build and learn
