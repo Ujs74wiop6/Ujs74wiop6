@@ -9,8 +9,8 @@
         <p>
           • I enjoy technology and development with an emphasis on automation, scripting, and data - create things to solve problems and help people. 
         </p> 
-        <p> 
-          • I'm a contributor to some tech communities, like to work on my soft skills and have experiences that go beyond simple one code... 
+        <p>
+          • I'm a contributor to some tech communities, like to work on my soft skills and having experiences that go beyond simple one code... 
         </p> 
         <p> ~ The intermediary between humans and machines</p>
       </div>
