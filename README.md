@@ -1,5 +1,20 @@
-### Fabricio Tiago Arantes
-- I like technology & development, building things to solve problems and help people.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h1>Fabricio Tiago Arantes</h1><br>
+      <p>
+        • I enjoy technology and development with an emphasis on automation, scripting, and data - create things to solve problems and help people. 
+      </p> 
+      <p> 
+        • I'm a contributor to some tech communities, like to work on my soft skills and have experiences that go beyond simple one code... 
+      </p> 
+      <p> ~ The intermediary between humans and machines</p>
+    </td>
+    <td width="35%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExandrc2k0ZXlwNXlhazV5czNxZjFhaGliczZmdnZwa2x2bnVmbXpuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vLHnnIiwUN7a/giphy.gif" width="100%" style="border-radius: 12px;"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/Ujs74wiop6">
@@ -8,7 +23,7 @@
 <div style="display: inline_block"><br>
   <h3>Stack</h3>
   <img align="center" alt="LINUX" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" alt="UBUNTU" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
+  <img align="center" alt="UBUNTU" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
   <img align="center" alt="BASH" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -37,6 +52,10 @@
   <img align="center" alt="GITHUB" height="40" width="50" src="https://www.svgrepo.com/download/312259/github.svg"/>
   <img align="center" alt="DOCKER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img align="center" alt="POSTMAN" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <br>
+  <img align="center" alt="GRAFANA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+  <img align="center" alt="GOOGLE-SHEETS" height="50" width="60"src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" />
+  <img align="center" alt="POWER_BI" height="50" width="60" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" />
 </div>
     <br>
 <div>
