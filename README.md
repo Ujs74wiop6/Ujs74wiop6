@@ -1,9 +1,11 @@
 <div align="center">
 
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h1>Fabricio Tiago Arantes</h1><br>
+<!-- Perfil + GIF alinhados -->
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <div>
+        <h1>Fabricio Tiago Arantes</h1>
         <p>
           • I enjoy technology and development with an emphasis on automation, scripting, and data - create things to solve problems and help people. 
         </p> 
@@ -11,12 +13,16 @@
           • I'm a contributor to some tech communities, like to work on my soft skills and have experiences that go beyond simple one code... 
         </p> 
         <p> ~ The intermediary between humans and machines</p>
-      </td>
-      <td width="35%">
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExandrc2k0ZXlwNXlhazV5czNxZjFhaGliczZmdnZwa2x2bnVmbXpuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vLHnnIiwUN7a/giphy.gif" width="100%" style="border-radius: 12px;"/>
-      </td>
-    </tr>
-  </table>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <table width="100%">
   <tr>
