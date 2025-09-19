@@ -18,10 +18,24 @@
     </tr>
   </table>
 
-  <a href="https://github.com/Ujs74wiop6">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujs74wiop6&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujs74wiop6&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <a href="https://github.com/Ujs74wiop6">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujs74wiop6&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <a href="https://github.com/Ujs74wiop6">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujs74wiop6&layout=compact&langs_count=7&theme=dark"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
  <table width="100%">
   <tr>
